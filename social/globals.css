@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind compoments;
+@tailwind utilities;
+
+:root{
+    @apply h-full bg-black
+}
+:body{
+    @apply h-full bg-black
+}
